@@ -50,7 +50,7 @@ Our final weights, optimized for abdominal datasets, can be downloaded from the 
 </div>
 
 
-##### Where to find the implementations
+##### Where to find the LAL and LDL
 
 Latent Alignment Learning (LAL) is implemented in `ldm/models/diffusion/ddpm.py`.  
 The spatial alignment losses are computed in:
