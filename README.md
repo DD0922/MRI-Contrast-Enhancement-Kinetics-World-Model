@@ -2,6 +2,8 @@
 
 <h2>MRI Contrast Enhancement Kinetics World Model</h2>
 
+CVPR2026
+
 #### [Jindi Kong<sup>1</sup>](https://scholar.google.com/citations?hl=zh-CN&tzom=300&user=Kr-XKIwAAAAJ) · [Yuting He<sup>1</sup>](https://yutinghe-list.github.io/) · Cong Xia<sup>2</sup> · [Rongjun Ge<sup>3</sup>](https://scholar.google.com/citations?user=v8K8HIkAAAAJ&hl=zh-CN) · [Shuo Li<sup>1</sup>](https://scholar.google.com/citations?hl=en&user=6WNtJa0AAAAJ&view_op=list_works&sortby=pubdate) 
 <sup>1</sup> Case Western Reserve University, Cleveland, OH, USA  &nbsp;&nbsp; <sup>2</sup> Jiangsu Cancer Hospital, Nanjing, Jiangsu, China  &nbsp;&nbsp; <sup>3</sup> Southeast University, Nanjing, Jiangsu, China
 
