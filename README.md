@@ -81,5 +81,22 @@ If you find MRI CEKWorld useful for your research, welcome to cite our work usin
 }
 ```
 
+## ⏬ The preprocessed Duke DCE-MRI
+
+The 2D tumor patches provided in this dataset were derived from the **DUKE-BREAST-CANCER-MRI** collection hosted by The Cancer Imaging Archive (TCIA):
+
+Saha, A., Harowicz, M. R., Grimm, L. J., Weng, J., Cain, E. H., Kim, C. E., Ghate, S. V., Walsh, R., & Mazurowski, M. A. (2021). *Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations* [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.e3sv-re93
+
+The original imaging data are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+To generate this derived dataset, tumor-containing MRI slices were selected from the original images. Regions containing the tumors were cropped, resized to a standardized image size, and converted into NumPy (`.npy`) arrays.
+
+The resulting 2D tumor patches contain image-derived material from the original TCIA dataset and therefore remain subject to the applicable **CC BY-NC 4.0** license terms. These image-derived data may be shared and adapted for non-commercial purposes subject to appropriate attribution.
+
+Users should cite the original DUKE-BREAST-CANCER-MRI dataset and comply with the applicable TCIA Data Usage Policies and Restrictions.
+
+
+https://drive.google.com/file/d/1bV3pEe5O-bqKaDyLU5hqRVwodnCoyre4/view?usp=sharing
+
 ## ❤️ Acknowledgement
 This code is mainly built upon [ControlNet](https://github.com/lllyasviel/ControlNet/tree/main),  thanks to their invaluable contributions.
